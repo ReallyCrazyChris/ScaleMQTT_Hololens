@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleMQTT_Hololens", "ScaleMQTT_Hololens\ScaleMQTT_Hololens.csproj", "{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		MyDebug|ARM64 = MyDebug|ARM64
+		MyDebug|x64 = MyDebug|x64
+		MyRelease|ARM64 = MyRelease|ARM64
+		MyRelease|x64 = MyRelease|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Debug|ARM64.Build.0 = Debug|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Debug|x64.ActiveCfg = Debug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Debug|x64.Build.0 = Debug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Debug|x64.Deploy.0 = Debug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyDebug|ARM64.ActiveCfg = MyDebug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyDebug|ARM64.Build.0 = MyDebug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyDebug|ARM64.Deploy.0 = MyDebug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyDebug|x64.ActiveCfg = MyDebug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyDebug|x64.Build.0 = MyDebug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyDebug|x64.Deploy.0 = MyDebug|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyRelease|ARM64.ActiveCfg = MyRelease|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyRelease|ARM64.Build.0 = MyRelease|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyRelease|ARM64.Deploy.0 = MyRelease|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyRelease|x64.ActiveCfg = MyRelease|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyRelease|x64.Build.0 = MyRelease|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.MyRelease|x64.Deploy.0 = MyRelease|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Release|ARM64.ActiveCfg = Release|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Release|ARM64.Build.0 = Release|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Release|ARM64.Deploy.0 = Release|ARM64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Release|x64.ActiveCfg = Release|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Release|x64.Build.0 = Release|x64
+		{7F77DD89-DFB1-41EE-8150-19AB602EFA1E}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625F5338-0829-45CA-90AC-5B9B04AA82AD}
+	EndGlobalSection
+EndGlobal
